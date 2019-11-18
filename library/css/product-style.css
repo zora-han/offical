@@ -1,0 +1,233 @@
+.product-security-situation .aig-container h2 p.product-abstract {
+    text-align: left;
+    line-height: 32px;
+    text-indent:37px;
+    margin: 30px 0;
+  }
+
+  .product-security-situation .pmax {
+    padding: 60px 0 0 0;
+  }
+
+  .product-security-situation .service_banner {
+    height: 332px;
+    width: 100%;
+    background: url("../../images/page-banner-bg.png") no-repeat;
+    background-size: cover;
+    margin-top: 0;
+  }
+
+  .product-security-situation .service_banner .banner-font {
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 136px;
+  }
+
+  .product-security-situation .service_banner .banner-font .subtitle {
+    font-size: 20px;
+    padding-top: 32px;
+  }
+
+  .product-security-situation .white-bg {
+    background-color: #ffffff;
+  }
+
+  .product-security-situation .gray-bg {
+    background-color: #f7f9fc;
+  }
+
+  .product-security-situation .text-center {
+    text-align: center;
+  }
+
+  .product-security-situation .float-left {
+    float: left;
+  }
+
+  .product-security-situation .float-right {
+    float: right;
+  }
+
+  .product-security-situation .product-con {
+    width: 1200px;
+    margin: 0 auto;
+  }
+
+  .product-security-situation .product-con .product-page {
+    width: 100%;
+    position: relative;
+    padding: 80px 26px;
+    overflow: hidden;
+  }
+
+  .product-security-situation .product-con .product-page .img {
+    vertical-align: middle;
+    width: 500px;
+  }
+
+  .product-security-situation .product-con .product-page .font {
+    width: 573px;
+    text-align: justify;
+    font-size: 18px;
+    color: #7f7f7f;
+    line-height: 30px;
+  }
+
+  .product-security-situation .product-con .product-page .font .header {
+    font-size: 22px;
+    color: #000000;
+    font-weight: normal;
+    margin-bottom: 30px;
+    margin-left: 80px;
+  }
+
+  .product-security-situation .product-con .product-page .font .con {
+    padding-left: 23px;
+    margin-left: 80px;
+  }
+
+  .product-security-situation .product-con .product-page .font .con li {
+    list-style: disc;
+    color: #7f7f7f;
+    margin-bottom: 18px;
+  }
+
+  @media screen and (max-width: 1200px) {
+    .index-screen01 {
+      padding: 0;
+    }
+  }
+
+  @media screen and (min-width: 1024px)and (max-width: 1366px) {
+    .company-information-list {
+      padding: 0 40px;
+    }
+
+    .company-information-list li .logo {
+      right: 30px;
+    }
+  }
+
+
+  @media screen and (min-width: 768px)and (max-width: 1024px) {
+    .aig-container {
+      width: 100%;
+    }
+
+    .index-screen01 {
+      padding: 0 40px;
+    }
+
+    .product-security-situation .pmax {
+      padding: 80px 0 0 0;
+    }
+
+    .product-security-situation .product-con {
+      width: 100%;
+    }
+
+    .product-security-situation .product-con .product-page {
+      padding: 40px;
+    }
+
+    .product-security-situation .product-con .product-page .img {
+      width: 350px;
+    }
+
+    .product-security-situation .product-con .product-page .font {
+      width: calc(100% - 350px);
+    }
+
+    .product-security-situation .product-con .product-page .font.float-right .header {
+      margin-left: 15px;
+      font-size: 22px;
+      margin-bottom: 20px;
+    }
+
+    .product-security-situation .product-con .product-page .font.float-right .con {
+      margin-left: 15px;
+    }
+
+    .product-security-situation .product-con .product-page .font.float-left .header {
+      margin-left: 0;
+    }
+
+    .product-security-situation .product-con .product-page .font.float-left .con {
+      margin-left: 0;
+      padding-right: 10px;
+    }
+
+    .product-security-situation .product-con .product-page .font .con li {
+      margin-bottom: 0;
+      font-size: 16px;
+    }
+  }
+
+  @media screen and (min-width: 320px)and (max-width: 767px) {
+    .aig-container {
+      width: 100%;
+    }
+
+    .product-security-situation .service_banner .banner-font {
+      padding-top: 120px;
+      font-size: 26px;
+    }
+
+    .product-security-situation .service_banner .banner-font .subtitle {
+      font-size: 18px;
+    }
+
+    .product-security-situation .float-left {
+      float: none;
+    }
+
+    .product-security-situation .float-right {
+      float: none;
+    }
+
+    .product-security-situation .pmax {
+      padding: 40px 0 0 0;
+    }
+
+    .product-security-situation .product-con {
+      width: 100%;
+    }
+
+    .product-security-situation .product-con .product-page {
+      padding: 50px 26px 0 26px;
+    }
+
+    .product-security-situation .product-con .product-page:last-child {
+      padding: 50px 26px;
+    }
+
+    .product-security-situation .product-con .product-page .img {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    .product-security-situation .product-con .product-page .font {
+      width: 100%;
+    }
+
+    .product-security-situation .product-con .product-page .font .header {
+      margin-left: 0;
+      margin-bottom: 10px;
+    }
+
+    .product-security-situation .product-con .product-page .font .con {
+      margin-left: 0;
+    }
+
+    .product-security-situation .product-con .product-page .font .con li {
+      margin-bottom: 0;
+      font-size: 16px;
+    }
+
+    .product-security-situation .aig-container h2 p.product-abstract {
+      text-align: justify;
+      font-size: 16px;
+      padding: 0 26px;
+    }
+  }
