@@ -46,3 +46,16 @@ $(function () {
         fadeDur: 300
     });
 });
+
+function jumpForPhone(){
+	$('#oiBtn').toggleClass("io")
+	$('#navBox').toggleClass("navbox01 navbox")
+	if ($('#navBox').hasClass("navbox01")) {
+		$(".logobox img").src;
+		$(".logobox img").attr('src', 'images/logo.svg').css("opacity", "0.4");
+
+	} else {
+		$(".logobox img").src;
+		$(".logobox img").attr('src', 'images/logo.svg').css("opacity", "1");
+	}
+}
