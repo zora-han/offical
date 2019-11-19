@@ -1,5 +1,121 @@
-html {
+html{
     font:"Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif
+}
+.sak-ads{
+    padding: 40px 0;
+}
+
+.sak-ads__infographic-container {
+    height: 400px;
+    padding: 75px 0;
+    width: 750px;
+    margin: 0 auto;
+}
+
+.sak-ads__infographic {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    transform-origin: 50% 0;
+    /* transform: scale(.5); */
+}
+
+.sak-ads__infographic-container .sak-ads__infographic__options {
+    list-style-type: none;
+    font-size: 22px;
+    line-height: 1.2;
+    color: #2BA0F5 !important;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-shadow: 0 1px 1px rgba(11, 118, 166, 0.3);
+    margin: 0 !important;
+}
+
+.sak-ads__infographic__options__item {
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+    list-style-type: none;
+    font-size: 24px !important;
+    min-width: 140px;
+}
+
+.sak-ads__infographic__options__item:nth-child(1) {
+    bottom: 10px;
+    right: 270px;
+}
+
+.sak-ads__infographic__options__item:nth-child(2) {
+    top: 100px;
+    right: 245px;
+}
+
+.sak-ads__infographic__options__item:nth-child(3) {
+    top: 100px;
+    left: 175px;
+}
+
+.sak-ads__infographic__options__item:nth-child(4) {
+    bottom: 10px;
+    left: 230px;
+}
+
+.sak-ads__infographic__options__item:after {
+    content: "";
+    display: block;
+    width: 100px;
+    border-top: 2px dashed #ddd;
+    position: absolute;
+}
+
+.sak-ads__infographic__options__item:nth-child(1):after {
+    bottom: 30px;
+    right: -100px;
+    transform-origin: 0 50%;
+    transform: rotate(25deg);
+}
+.sak-ads__infographic__options__item:nth-child(2):after {
+    top: 30px;
+    right: -70px;
+    transform-origin: 0 50%;
+    transform: rotate(-25deg);
+}
+
+.sak-ads__infographic__options__item:nth-child(3):after {
+    top: 30px;
+    left: -40px;
+    transform-origin: 100% 50%;
+    transform: rotate(25deg);
+}
+
+.sak-ads__infographic__options__item:nth-child(4):after {
+    bottom: 30px;
+    left: -100px;
+    transform-origin: 100% 50%;
+    transform: rotate(-25deg);
+}
+
+.knife-button {
+    display: block;
+    width: 290px;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    box-shadow: 0 7px #ccd1d9, 0 10px #2BA0F5;
+    background: #2BA0F5;
+    color: #fff;
+    outline: none;
+    font-size: 20px;
+    /* font-weight: 600; */
+    text-decoration: none;
+    text-shadow: -1px -1px rgba(0, 0, 0, .2);
+    padding-right: 5px;
+    text-align: center;
 }
 
 @media (max-width: 992px) {
