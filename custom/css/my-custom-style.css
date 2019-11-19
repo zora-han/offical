@@ -53,7 +53,7 @@ html{
 
 .sak-ads__infographic__options__item:nth-child(3) {
     top: 100px;
-    left: 175px;
+    left: 190px;
 }
 
 .sak-ads__infographic__options__item:nth-child(4) {
@@ -84,7 +84,7 @@ html{
 
 .sak-ads__infographic__options__item:nth-child(3):after {
     top: 30px;
-    left: -40px;
+    left: -55px;
     transform-origin: 100% 50%;
     transform: rotate(25deg);
 }
@@ -116,6 +116,10 @@ html{
     text-shadow: -1px -1px rgba(0, 0, 0, .2);
     padding-right: 5px;
     text-align: center;
+}
+
+.sak-feature .icon{
+    font-size: 80px;
 }
 
 @media (max-width: 992px) {

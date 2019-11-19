@@ -27,6 +27,69 @@
       "unicode_decimal": 58992
     },
     {
+      "icon_id": "1229076",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1311831",
+      "name": "漏洞发现引擎",
+      "font_class": "loudong",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "2569350",
+      "name": "工具集成",
+      "font_class": "gongjuji",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2649225",
+      "name": "漏洞管理1",
+      "font_class": "loudongguanli",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "3150254",
+      "name": "服务",
+      "font_class": "fuwu1",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "3154566",
+      "name": "Web渗透测试服务",
+      "font_class": "Webshentouceshifuwu",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "4705191",
+      "name": "渗透测试",
+      "font_class": "shentou",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "5032897",
+      "name": "识别",
+      "font_class": "zhinengshibie",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "6298235",
+      "name": "知识图谱",
+      "font_class": "zhishitupu",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
       "icon_id": "6848935",
       "name": "anquanbang_visualiza",
       "font_class": "hongduifuwu",
@@ -60,6 +123,69 @@
       "font_class": "anquanfangyu",
       "unicode": "e620",
       "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "7720427",
+      "name": "跳变POW算法变化",
+      "font_class": "tiaobianchuanshu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8142066",
+      "name": "通道",
+      "font_class": "tongdaokongzhi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "8372697",
+      "name": "威胁情报-icon",
+      "font_class": "weixieqingbaojiaohuan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8857374",
+      "name": "溯源黄金版",
+      "font_class": "suyuanhuangjinban",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9165108",
+      "name": "实战决策AI大数据 灰",
+      "font_class": "shizhan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10206834",
+      "name": "数据流",
+      "font_class": "shujuliu",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "11178813",
+      "name": "数据积累",
+      "font_class": "shujujilei",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "11578430",
+      "name": "边缘网络隧道",
+      "font_class": "duosuidao",
+      "unicode": "ecdf",
+      "unicode_decimal": 60639
+    },
+    {
+      "icon_id": "11631517",
+      "name": "电子溯源或信息化监管设备",
+      "font_class": "dianzisuyuanhuoxinxihuajianguanshebei",
+      "unicode": "e933",
+      "unicode_decimal": 59699
     }
   ]
 }
