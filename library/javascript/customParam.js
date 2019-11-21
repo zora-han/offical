@@ -59,3 +59,7 @@ function jumpForPhone(){
 		$(".logobox img").attr('src', 'images/logo.svg').css("opacity", "1");
 	}
 }
+
+function jumpTo(addres){
+    window.open(addres);
+}
