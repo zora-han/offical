@@ -1,5 +1,5 @@
 .aig-container{width:1200px;margin: 0 auto;padding:0;}
-.pmax{padding: 160px 0}
+.pmax{padding: 80px 0}
 
 
 /*----------------------å›žåˆ°é¡¶éƒ¨----------------------*/
@@ -244,9 +244,9 @@ a.btn-advice:hover{background: linear-gradient(to top, #ffffff, #f1f2f3); box-sh
 
 
 /*------------------------------------é¦–é¡µç¬¬ä¸€å±------------------------------------*/
-.technical_consultation_box{width: 100%;background: #ffffff;overflow: hidden;padding:160px 0 93px 0;}
+.technical_consultation_box{width: 100%;background: #ffffff;overflow: hidden;padding:120px 0 93px 0;}
 .technical_consultation_box .tc_list{margin:80px 0 20px;}
-.technical_consultation_box .tc_list li{float: left;width: 28.5%;margin:0 5% 50px 1%;border-radius: 5px; text-align: center; background: #fff;box-shadow:0 0 15px 5px rgba(202,203,204,0.3);transition: 0.3s;min-height: 310px; overflow: hidden; position: relative; min-height: 475px;}
+.technical_consultation_box .tc_list li{float: left;width: 28.5%;margin:0 5% 50px 1%;border-radius: 5px; text-align: center; box-shadow:0 0 15px 5px rgba(202,203,204,0.3);transition: 0.3s;min-height: 310px; overflow: hidden; position: relative; min-height: 475px;}
 .technical_consultation_box .tc_list li .top-pic {position: relative; top: -6px;}
 .technical_consultation_box .tc_list li .down-pic {position: absolute; left: 0; bottom: 0; width: 100%;}
 .technical_consultation_box .tc_list li:nth-child(3n){margin-right:1%;}

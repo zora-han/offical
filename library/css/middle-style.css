@@ -361,8 +361,14 @@ a.button.clear:hover{
 
 .productWheel__active .sliceText {
     fill: #5d6d75;
-    font-size: 20px;
+    font-size: 25px;
     font-family: Roboto,Roboto-local,sans-serif
+}
+
+.productWheel__active .sliceTitle {
+    fill: #4D5A5E;
+    font-size: 30px;
+    stroke:#4D5A5E;
 }
 
 .productWheel__active .slice {
